@@ -1,4 +1,4 @@
-**Jogo Número Secreto**: Um jogo divertido onde você tenta adivinhar o número secreto.  
+coloque um boneco este codigo **Jogo Número Secreto**: Um jogo divertido onde você tenta adivinhar o número secreto.  
 **Portfólio**: Meu portfólio pessoal, mostrando meus trabalhos e habilidades.  
 **Encriptador**: Uma ferramenta para encriptar e desencriptar mensagens.  
 **Decodificador de Texto**: Projeto para decodificar textos de forma simples e rápida.  
@@ -21,4 +21,4 @@
 ### 🌟 Curiosidades
 
 - Adoro aprender coisas novas e estou sempre em busca de desafios.  
-- Nas horas vagas, gosto de ler livros, assistir séries e explorar tecnologia.  
+- Nas horas vagas, gosto de ler livros, assistir séries e explorar tecnologia.
