@@ -1,46 +1,36 @@
-# Caderno de JP & NI
+- **Jogo Número Secreto**: Um jogo divertido onde você tenta adivinhar o número secreto.
+- **Portfólio**: Meu portfólio pessoal, mostrando meus trabalhos e habilidades.
+- **Encriptador**: Uma ferramenta para encriptar e desencriptar mensagens.
+- **Decodificador de Texto**: Projeto para decodificar textos de forma simples e rápida.
 
-![Badge de Licença](https://img.shields.io/badge/license-MIT-blue.svg)
-![Badge de Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)
+[![Giu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giulia811&theme=radical)](https://github.com/Giulia811)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia811&show_icons=true&theme=radical)](https://github.com/Giulia811)
 
-Uma aplicação web completa para anotações, organização de livros digitais, desenhos e muito mais. Suas ideias, notas e criações em um só lugar.
 
-## 📖 Descrição
+<div style="display: inline_block"><br>
+  <img align="center" alt="Giulia-C" height="40" width="60" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="Giulia-C++" height="40" width="60" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="Giulia-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Giulia-Java" height="40" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Giulia-JavaScript" height="40" width="60" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Giulia-HTML" height="40" width="60" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Giulia-CSS" height="40" width="60" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Giulia-SQL" height="40" width="60" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+</div>
 
-O "Caderno de JP & NI" é uma ferramenta multifuncional projetada para ser um espaço digital unificado para criatividade e produtividade. Ele combina um bloco de notas avançado com uma biblioteca de e-books, uma ferramenta de desenho e diagramação, e outras utilidades como calculadora e assistente de IA. A aplicação funciona inteiramente no navegador, salvando todos os dados localmente para garantir privacidade e acesso offline.
+##
 
-## ✨ Funcionalidades Principais
+<div>  
+  <a href="mailto:giulia.seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/giulia-seu-perfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-* **📝 Anotações Avançadas:** Crie, salve e gerencie notas de texto com títulos.
-* **📚 Biblioteca Digital:** Adicione e organize seus livros (PDF, EPUB, TXT, etc.) em uma estante virtual.
-* **🎨 Ferramenta de Desenho:** Uma área de desenho livre e diagramação com formas, setas e cores personalizáveis.
-* **📤 Importação e Exportação:** Exporte suas notas como TXT, PDF ou Imagem. Importe notas de arquivos de texto ou extraia texto de PDFs.
-* **🌙 Modo Dia/Noite:** Interface adaptável para melhor visualização em diferentes ambientes.
-* **🗣️ Leitura em Voz Alta:** A aplicação pode ler suas anotações para você em português.
-* **🛠️ Ferramentas Adicionais:** Inclui Calculadora, Calendário e um Assistente de IA para ajudar com suas tarefas.
-* **🔗 Comunicação entre Abas:** Envie notas em tempo real para outras instâncias do caderno abertas no mesmo navegador.
+### 🛠️ Tecnologias e Ferramentas
 
-## 🚀 Como Executar o Projeto
+- **Linguagens**: HTML, CSS, JavaScript, Java, Python
+- **Ferramentas**: Git, GitHub, VS Code
 
-Este projeto é uma aplicação front-end pura e não requer um servidor back-end para ser executado.
+### 🌟 Curiosidades
 
-1.  **Baixe o código:** Faça o download do arquivo `index.html`.
-2.  **Abra no Navegador:** Simplesmente abra o arquivo `index.html` em qualquer navegador web moderno (como Chrome, Firefox, Edge).
-
-Tudo funcionará diretamente, pois os dados são salvos no armazenamento local do seu navegador.
-
-## 💻 Tecnologias Utilizadas
-
-* **HTML5**
-* **CSS3**
-* **JavaScript (ES6+)**
-* **Bibliotecas Externas:**
-    * [jsPDF](https://github.com/parallax/jsPDF) - Para exportação de PDF.
-    * [html2canvas](https://html2canvas.hertzen.com/) - Para converter HTML em imagens.
-    * [PDF.js](https://mozilla.github.io/pdf.js/) - Para renderizar e extrair texto de PDFs.
-    * [Fabric.js](http://fabricjs.com/) - Para a funcionalidade de desenho e diagramação.
-    * [localForage](https://localforage.github.io/localForage/) - Para um armazenamento local mais robusto.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo
+- Adoro aprender coisas novas e estou sempre em busca de desafios.
+- Nas horas vagas, gosto de ler livros, assistir séries e explorar tecnologia.
