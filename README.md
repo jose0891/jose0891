@@ -6,14 +6,12 @@
 [![Giu GitHub Stats](https://github-readme-stats.vercel.app/api?username=jose0891&theme=radical)](https://github.com/jose0891)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose0891&show_icons=true&theme=radical)](https://github.com/jose0891)
 
-
-
-
 ##
 
-<div>  
-  <a href="mailto:jose0891.seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giulia-seu-perfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+  <a href="mailto:seu-email-aqui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  <a href="https://www.linkedin.com/in/seu-perfil-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ### 🛠️ Tecnologias e Ferramentas
